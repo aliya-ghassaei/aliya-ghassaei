@@ -2,7 +2,7 @@
 
 Welcome to my page! I'm a developer and consultant based in Portland, Oregon.
 
-Please not that my professional contributions do not connect to this github account.
+Please note that my professional contributions do not connect to this github account.
 
 For more about my work, check out my [LinkedIn](https://www.linkedin.com/in/aliya-ghassaei-4b78b2203/) (personal website coming soon!)
 
@@ -24,6 +24,3 @@ For more about my work, check out my [LinkedIn](https://www.linkedin.com/in/aliy
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliya-ghassaeis&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
